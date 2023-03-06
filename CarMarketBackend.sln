@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarMarketBackend", "CarMarketBackend\CarMarketBackend.csproj", "{8D885ADF-D270-4498-B84C-A8318FE7490D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{19146756-8FCC-4995-860A-712107568A7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarMarketBackend.Domain", "CarMarketBackend.Domain\CarMarketBackend.Domain.csproj", "{1FEFAAFB-7CEE-4022-93BB-927F34911055}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataAccessLayer", "DataAccessLayer", "{FAFCA312-D74B-475F-B60E-DD8B95DDB694}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarMarketBackend.DataAccessLayer", "CarMarketBackend.DataAccessLayer\CarMarketBackend.DataAccessLayer.csproj", "{2439F573-2454-4465-9D94-9DB8E3A46AE6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{1B25025E-00AE-4E18-AC97-8A904461E6AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarMarketBackend.Services", "CarMarketBackend.Services\CarMarketBackend.Services.csproj", "{D160DB34-628E-44D2-BF47-B4995AED63A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D885ADF-D270-4498-B84C-A8318FE7490D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D885ADF-D270-4498-B84C-A8318FE7490D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D885ADF-D270-4498-B84C-A8318FE7490D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D885ADF-D270-4498-B84C-A8318FE7490D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FEFAAFB-7CEE-4022-93BB-927F34911055}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FEFAAFB-7CEE-4022-93BB-927F34911055}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FEFAAFB-7CEE-4022-93BB-927F34911055}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FEFAAFB-7CEE-4022-93BB-927F34911055}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2439F573-2454-4465-9D94-9DB8E3A46AE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2439F573-2454-4465-9D94-9DB8E3A46AE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2439F573-2454-4465-9D94-9DB8E3A46AE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2439F573-2454-4465-9D94-9DB8E3A46AE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D160DB34-628E-44D2-BF47-B4995AED63A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D160DB34-628E-44D2-BF47-B4995AED63A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D160DB34-628E-44D2-BF47-B4995AED63A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D160DB34-628E-44D2-BF47-B4995AED63A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1FEFAAFB-7CEE-4022-93BB-927F34911055} = {19146756-8FCC-4995-860A-712107568A7A}
+		{2439F573-2454-4465-9D94-9DB8E3A46AE6} = {FAFCA312-D74B-475F-B60E-DD8B95DDB694}
+		{D160DB34-628E-44D2-BF47-B4995AED63A0} = {1B25025E-00AE-4E18-AC97-8A904461E6AB}
+	EndGlobalSection
+EndGlobal

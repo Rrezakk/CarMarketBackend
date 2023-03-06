@@ -1,0 +1,161 @@
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\bin\Debug\net6.0\appsettings.json
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\bin\Debug\net6.0\DareAppBackend.exe
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\bin\Debug\net6.0\DareAppBackend.deps.json
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\bin\Debug\net6.0\DareAppBackend.runtimeconfig.json
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\bin\Debug\net6.0\DareAppBackend.dll
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\bin\Debug\net6.0\DareAppBackend.pdb
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Npgsql.dll
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\bin\Debug\net6.0\DareAppBackend.DataAccessLayer.dll
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\bin\Debug\net6.0\DareAppBackend.Domain.dll
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\bin\Debug\net6.0\DareAppBackend.Services.dll
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\bin\Debug\net6.0\DareAppBackend.DataAccessLayer.pdb
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\bin\Debug\net6.0\DareAppBackend.Domain.pdb
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\bin\Debug\net6.0\DareAppBackend.Services.pdb
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\obj\Debug\net6.0\DareAppBackend.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\obj\Debug\net6.0\DareAppBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\obj\Debug\net6.0\DareAppBackend.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\obj\Debug\net6.0\DareAppBackend.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\obj\Debug\net6.0\DareAppBackend.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\obj\Debug\net6.0\DareAppBackend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\obj\Debug\net6.0\DareAppBackend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\obj\Debug\net6.0\scopedcss\bundle\DareAppBackend.styles.css
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\obj\Debug\net6.0\DareAppBackend.csproj.CopyComplete
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\obj\Debug\net6.0\DareAppBackend.dll
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\obj\Debug\net6.0\refint\DareAppBackend.dll
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\obj\Debug\net6.0\DareAppBackend.pdb
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\obj\Debug\net6.0\DareAppBackend.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\obj\Debug\net6.0\ref\DareAppBackend.dll
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\appsettings.json
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\DareAppBackend.exe
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\DareAppBackend.deps.json
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\DareAppBackend.runtimeconfig.json
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\DareAppBackend.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\DareAppBackend.pdb
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\BCrypt.Net.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\MailKit.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\System.Web.Razor.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\MimeKit.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Npgsql.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\DareAppBackend.DataAccessLayer.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\DareAppBackend.Domain.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\DareAppBackend.Services.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\DareAppBackend.DataAccessLayer.pdb
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\DareAppBackend.Domain.pdb
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\bin\Debug\net6.0\DareAppBackend.Services.pdb
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\obj\Debug\net6.0\DareAppBackend.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\obj\Debug\net6.0\DareAppBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\obj\Debug\net6.0\DareAppBackend.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\obj\Debug\net6.0\DareAppBackend.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\obj\Debug\net6.0\DareAppBackend.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\obj\Debug\net6.0\DareAppBackend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\obj\Debug\net6.0\DareAppBackend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\obj\Debug\net6.0\scopedcss\bundle\DareAppBackend.styles.css
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\obj\Debug\net6.0\DareAppBackend.csproj.CopyComplete
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\obj\Debug\net6.0\DareAppBackend.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\obj\Debug\net6.0\refint\DareAppBackend.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\obj\Debug\net6.0\DareAppBackend.pdb
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\obj\Debug\net6.0\DareAppBackend.genruntimeconfig.cache
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend\obj\Debug\net6.0\ref\DareAppBackend.dll

@@ -1,0 +1,24 @@
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend.Domain\bin\Debug\net6.0\DareAppBackend.Domain.deps.json
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend.Domain\bin\Debug\net6.0\DareAppBackend.Domain.dll
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend.Domain\bin\Debug\net6.0\DareAppBackend.Domain.pdb
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend.Domain\obj\Debug\net6.0\DareAppBackend.Domain.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend.Domain\obj\Debug\net6.0\DareAppBackend.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend.Domain\obj\Debug\net6.0\DareAppBackend.Domain.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend.Domain\obj\Debug\net6.0\DareAppBackend.Domain.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend.Domain\obj\Debug\net6.0\DareAppBackend.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend.Domain\obj\Debug\net6.0\DareAppBackend.Domain.dll
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend.Domain\obj\Debug\net6.0\refint\DareAppBackend.Domain.dll
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend.Domain\obj\Debug\net6.0\DareAppBackend.Domain.pdb
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend.Domain\obj\Debug\net6.0\ref\DareAppBackend.Domain.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend.Domain\bin\Debug\net6.0\DareAppBackend.Domain.deps.json
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend.Domain\bin\Debug\net6.0\DareAppBackend.Domain.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend.Domain\bin\Debug\net6.0\DareAppBackend.Domain.pdb
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend.Domain\obj\Debug\net6.0\DareAppBackend.Domain.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend.Domain\obj\Debug\net6.0\DareAppBackend.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend.Domain\obj\Debug\net6.0\DareAppBackend.Domain.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend.Domain\obj\Debug\net6.0\DareAppBackend.Domain.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend.Domain\obj\Debug\net6.0\DareAppBackend.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend.Domain\obj\Debug\net6.0\DareAppBackend.Domain.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend.Domain\obj\Debug\net6.0\refint\DareAppBackend.Domain.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend.Domain\obj\Debug\net6.0\DareAppBackend.Domain.pdb
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend.Domain\obj\Debug\net6.0\ref\DareAppBackend.Domain.dll

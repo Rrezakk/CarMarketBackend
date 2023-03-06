@@ -1,0 +1,30 @@
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend.DataAccessLayer\bin\Debug\net6.0\DareAppBackend.DataAccessLayer.deps.json
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend.DataAccessLayer\bin\Debug\net6.0\DareAppBackend.DataAccessLayer.dll
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend.DataAccessLayer\bin\Debug\net6.0\DareAppBackend.DataAccessLayer.pdb
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend.DataAccessLayer\obj\Debug\net6.0\DareAppBackend.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend.DataAccessLayer\obj\Debug\net6.0\DareAppBackend.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend.DataAccessLayer\obj\Debug\net6.0\DareAppBackend.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend.DataAccessLayer\obj\Debug\net6.0\DareAppBackend.DataAccessLayer.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend.DataAccessLayer\obj\Debug\net6.0\DareAppBackend.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend.DataAccessLayer\obj\Debug\net6.0\DareAppBackend.DataAccessLayer.dll
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend.DataAccessLayer\obj\Debug\net6.0\refint\DareAppBackend.DataAccessLayer.dll
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend.DataAccessLayer\obj\Debug\net6.0\DareAppBackend.DataAccessLayer.pdb
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend.DataAccessLayer\obj\Debug\net6.0\ref\DareAppBackend.DataAccessLayer.dll
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend.DataAccessLayer\bin\Debug\net6.0\DareAppBackend.Domain.dll
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend.DataAccessLayer\bin\Debug\net6.0\DareAppBackend.Domain.pdb
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend.DataAccessLayer\obj\Debug\net6.0\DareAppBackend.DataAccessLayer.csproj.CopyComplete
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend.DataAccessLayer\bin\Debug\net6.0\DareAppBackend.DataAccessLayer.deps.json
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend.DataAccessLayer\bin\Debug\net6.0\DareAppBackend.DataAccessLayer.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend.DataAccessLayer\bin\Debug\net6.0\DareAppBackend.DataAccessLayer.pdb
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend.DataAccessLayer\bin\Debug\net6.0\DareAppBackend.Domain.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend.DataAccessLayer\bin\Debug\net6.0\DareAppBackend.Domain.pdb
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend.DataAccessLayer\obj\Debug\net6.0\DareAppBackend.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend.DataAccessLayer\obj\Debug\net6.0\DareAppBackend.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend.DataAccessLayer\obj\Debug\net6.0\DareAppBackend.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend.DataAccessLayer\obj\Debug\net6.0\DareAppBackend.DataAccessLayer.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend.DataAccessLayer\obj\Debug\net6.0\DareAppBackend.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend.DataAccessLayer\obj\Debug\net6.0\DareAppBackend.DataAccessLayer.csproj.CopyComplete
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend.DataAccessLayer\obj\Debug\net6.0\DareAppBackend.DataAccessLayer.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend.DataAccessLayer\obj\Debug\net6.0\refint\DareAppBackend.DataAccessLayer.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend.DataAccessLayer\obj\Debug\net6.0\DareAppBackend.DataAccessLayer.pdb
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend.DataAccessLayer\obj\Debug\net6.0\ref\DareAppBackend.DataAccessLayer.dll

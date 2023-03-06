@@ -1,0 +1,29 @@
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend.Services\bin\Debug\net6.0\DareAppBackend.Services.deps.json
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend.Services\bin\Debug\net6.0\DareAppBackend.Services.dll
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend.Services\bin\Debug\net6.0\DareAppBackend.Services.pdb
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend.Services\obj\Debug\net6.0\DareAppBackend.Services.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend.Services\obj\Debug\net6.0\DareAppBackend.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend.Services\obj\Debug\net6.0\DareAppBackend.Services.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend.Services\obj\Debug\net6.0\DareAppBackend.Services.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend.Services\obj\Debug\net6.0\DareAppBackend.Services.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend.Services\obj\Debug\net6.0\DareAppBackend.Services.dll
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend.Services\obj\Debug\net6.0\refint\DareAppBackend.Services.dll
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend.Services\obj\Debug\net6.0\DareAppBackend.Services.pdb
+C:\Users\Admin\Desktop\Data-Structures-and-Algorythms\Heuristic algorythms and methods\DareAppBackend\DareAppBackend.Services\obj\Debug\net6.0\ref\DareAppBackend.Services.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend.Services\bin\Debug\net6.0\DareAppBackend.Services.deps.json
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend.Services\bin\Debug\net6.0\DareAppBackend.Services.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend.Services\bin\Debug\net6.0\DareAppBackend.Services.pdb
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend.Services\bin\Debug\net6.0\DareAppBackend.DataAccessLayer.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend.Services\bin\Debug\net6.0\DareAppBackend.Domain.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend.Services\bin\Debug\net6.0\DareAppBackend.DataAccessLayer.pdb
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend.Services\bin\Debug\net6.0\DareAppBackend.Domain.pdb
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend.Services\obj\Debug\net6.0\DareAppBackend.Services.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend.Services\obj\Debug\net6.0\DareAppBackend.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend.Services\obj\Debug\net6.0\DareAppBackend.Services.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend.Services\obj\Debug\net6.0\DareAppBackend.Services.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend.Services\obj\Debug\net6.0\DareAppBackend.Services.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend.Services\obj\Debug\net6.0\DareAppBackend.Services.csproj.CopyComplete
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend.Services\obj\Debug\net6.0\DareAppBackend.Services.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend.Services\obj\Debug\net6.0\refint\DareAppBackend.Services.dll
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend.Services\obj\Debug\net6.0\DareAppBackend.Services.pdb
+C:\Users\Admin\Desktop\DareAppBackend\DareAppBackend.Services\obj\Debug\net6.0\ref\DareAppBackend.Services.dll
